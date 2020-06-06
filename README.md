@@ -2,10 +2,10 @@
 
 I am a business major at the University of Oregon and I am minoring in Computer Informational Technologies. Currently, I am taking Cit 281.
 
-### CIT 281 Projects
+### Computer Informational Technology Code Portfolio and Class Projects
 
-- Project 1: I learned about for of loops and the forEach method in a dice rolling simulation.
+- [CIT 281 Projects](https://uo-cit.github.io/project-5-dhatcher282/): Unix shell, Git, RESTful Web Apps with NodeJS, Express, and MongoDB.
 
-- [Project 2](https://github.com/UO-CIT/project-2-dhatcher282): I learned about APIs
+- [CIS 111 Projects](https://pages.uoregon.edu/dhatcher/111/): Intro to Javascript, ES6, DOM API, and jQUery.
 
-- [Project 3](https://github.com/UO-CIT/project-3-dhatcher282): I learned about Github user pages
+- [CIS 110 Projects](https://pages.uoregon.edu/dhatcher/110/): Intro to HTML, CSS
