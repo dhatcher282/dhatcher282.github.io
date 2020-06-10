@@ -1,4 +1,4 @@
-# dhatcher282.github.io
+# [dhatcher282.github.io](https://dhatcher282.github.io/)
 
 I am a business major at the University of Oregon and I am minoring in Computer Informational Technologies. Currently, I am taking CIT 281. After this class, I am excited to take CIT 381 to learn more about SQL and data bases!
 
